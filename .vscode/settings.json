@@ -1,0 +1,7 @@
+{
+    "files.exclude": {
+        "$ npm install vue": true,
+        "vue": true
+    },
+    "search.useGlobalIgnoreFiles": true
+}
